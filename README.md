@@ -4,3 +4,5 @@
 
  Users can input their location (e.g., city name or ZIP code) to get the current weather conditions as well as the forecast for the next few days.
 
+### I have used a public weather API of OpenWeatherMap, to fetch weather data.
+
